@@ -1,4 +1,4 @@
-# Product Helpers eCommerce Platform - Product Helpers
+# Rating_Review_Web
 
 Product Helpers is an open-source platform designed to streamline the process of collecting, managing, and displaying product reviews and ratings. It provides a user-friendly interface for both consumers and businesses, allowing for seamless communication and feedback.
 
